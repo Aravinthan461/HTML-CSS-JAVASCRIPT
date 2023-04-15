@@ -1,0 +1,17 @@
+//logs msg to console
+console.log('Hello')
+console.log('Happy New Year')
+
+//creates alert box
+alert("Hi")
+
+//variables
+let score = 0 //initialization
+//assignment
+score = 100
+console.log("score is " + score) //logs the value in score 
+//dynamically typed
+score = 10.5
+score = 'no score'
+//constant
+const pi = 3.14
